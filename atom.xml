@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-15T14:39:24.509Z</updated>
+  <updated>2022-11-17T08:15:19.066Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>真正的全栈技术工人</title>
+    <link href="http://example.com/2022/11/17/%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%85%A8%E6%A0%88%E6%8A%80%E6%9C%AF%E5%B7%A5%E4%BA%BA/"/>
+    <id>http://example.com/2022/11/17/%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%85%A8%E6%A0%88%E6%8A%80%E6%9C%AF%E5%B7%A5%E4%BA%BA/</id>
+    <published>2022-11-17T06:55:29.000Z</published>
+    <updated>2022-11-17T08:15:19.066Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="目前互联网技术工人的困境"><a href="#目前互联网技术工人的困境" class="headerlink" title="目前互联网技术工人的困境"></a>目前互联网技术工人的困境</h1><p>此处互联网技术工人的困境当然不是技术上的困境，而是指作为工人共同体的认知困境。互联网及嵌入式和电子工程师等角色，具有较高的工资和较为体面的工作环境，且经过学术资产阶级和公司演化，经常具有不切合自己阶级的幻想，脱离了无产阶级的认同体系。</p><p>其他问题例如分析问题的方法过于机器化，仿佛思考的形式也是二进制类型，每天吃的东西也是0101010;甚至某些人引以为豪（大概率是玩笑话）;(分号)知乎就出现了拿机器学习模拟拉康的货。</p><p>接下来具体描述程序员困境的底层原理</p><h2 id="梅青格所代表认知主义末路"><a href="#梅青格所代表认知主义末路" class="headerlink" title="梅青格所代表认知主义末路"></a>梅青格所代表认知主义末路</h2><p>明天更新</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;目前互联网技术工人的困境&quot;&gt;&lt;a href=&quot;#目前互联网技术工人的困境&quot; class=&quot;headerlink&quot; title=&quot;目前互联网技术工人的困境&quot;&gt;&lt;/a&gt;目前互联网技术工人的困境&lt;/h1&gt;&lt;p&gt;此处互联网技术工人的困境当然不是技术上的困境，而是指作为工人</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
